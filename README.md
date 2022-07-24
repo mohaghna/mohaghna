@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohaghna
 - 👀 I’m interested in bash shell scripting and python
 - 🌱 I’m currently learning bash shell basics and python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...python projets
 - 📫 How to reach me -email:mohaghna101@gmail.com
 
 <!---
